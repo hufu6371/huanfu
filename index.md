@@ -2,7 +2,7 @@
 
 ---
 
-&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">About</a> &nbsp; &nbsp; &nbsp; Publicashion &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
+&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">About</a> &nbsp; &nbsp; &nbsp; Publication &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
 
 ---
 <a name="aboutme"></a>
@@ -16,6 +16,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ---
 
+#### Publication
 
 
 
