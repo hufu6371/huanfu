@@ -5,7 +5,7 @@
 
 Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor Prof. Dacheng Tao, and co-supervisors Dr. Chaohui Wang and Dr. Mingming Gong. Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
 
-**Research Interests:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
+**Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
 
 **Email:** hufu6371@uni.sydney.edu.au
 
