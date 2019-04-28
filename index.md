@@ -2,7 +2,7 @@
 
 ---
 
-Publicashion &nbsp; &nbsp; &nbsp; Education &nbsp; &nbsp; &nbsp; Experimence &nbsp; &nbsp; &nbsp; CV       
+About &nbsp; &nbsp; &nbsp; Publicashion &nbsp; &nbsp; &nbsp; Education &nbsp; &nbsp; &nbsp; Experimence &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
 
 ---
 
