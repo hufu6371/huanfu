@@ -1,8 +1,6 @@
 ## Welcome to Huan Fu's Homepage
 
----
-
-<img align="left" width="100" height="100" src="photo/huanfu_photo.JPG">
+<img align="left" width="300" height="400" src="photo/huanfu_photo.JPG">
 
 #### H4
 
