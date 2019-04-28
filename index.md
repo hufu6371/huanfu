@@ -3,13 +3,13 @@
 ### Huan Fu (付欢)
 <img align="left" width="150" height="200" src="photo/huanfu_photo.JPG">
 
-Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor [Prof. Dacheng Tao](https://sydney.edu.au/engineering/people/dacheng.tao.php), and co-supervisors [Dr. Chaohui Wang](http://igm.univ-mlv.fr/~cwang/index.php) and [Dr. Mingming Gong](https://mgong2.github.io/). Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
-
 **Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
 
 **Email:** hufu6371@uni.sydney.edu.au
 
 **Github:** [https://github.com/hufu6371](https://github.com/hufu6371)
+
+Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor [Prof. Dacheng Tao](https://sydney.edu.au/engineering/people/dacheng.tao.php), and co-supervisors [Dr. Chaohui Wang](http://igm.univ-mlv.fr/~cwang/index.php) and [Dr. Mingming Gong](https://mgong2.github.io/). Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
 
 
 
