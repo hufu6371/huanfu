@@ -1,10 +1,10 @@
 ## Welcome to Huan Fu's Homepage
 
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://github.com/hufu6371/huanfu/blob/master/photo/huanfu_photo.JPG">
 
 This is the code you need to align images to the right:
 ```
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="100" height="100" src="https://github.com/hufu6371/huanfu/blob/master/photo/huanfu_photo.JPG">
 ```
 
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
