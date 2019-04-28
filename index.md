@@ -1,10 +1,9 @@
 ## Welcome to Huan Fu's Homepage
 
-<img align="left" width="300" height="400" src="photo/huanfu_photo.JPG">
+<img align="left" width="200" height="250" src="photo/huanfu_photo.JPG">
 
-#### H4
-
-This is the code you need to align images to the right:
+### Huan Fu (付欢)
+Greetings! 
 
 ---
 
