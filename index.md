@@ -7,9 +7,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 **Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
 
-**Email:** hufu6371@uni.sydney.edu.au
-
-**Github:** [https://github.com/hufu6371](https://github.com/hufu6371)
+**Email:** hufu6371@uni.sydney.edu.au &nbsp; &nbsp; &nbsp; **Github:** [https://github.com/hufu6371](https://github.com/hufu6371)
 
 
 
