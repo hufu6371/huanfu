@@ -4,6 +4,7 @@
 
 <img align="left" width="100" height="100" src="photo/huanfu_photo.JPG">
 
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>
 
 This is the code you need to align images to the right:
 
