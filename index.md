@@ -16,8 +16,8 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ### Publication
 #### Conference
-><tt style="color:black; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping. </tt> <br/>
->Huan Fu, Mingming Gong <br/>
+><tt style="color:black; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping.</tt> <br/>
+><tt style="color:black; font-size: 100%;"> IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019 </tt> <br/>
 >[arxiv](https://arxiv.org/abs/1809.05852) <br/>
 
 
