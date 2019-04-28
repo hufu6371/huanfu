@@ -1,7 +1,5 @@
 ## Welcome to Huan Fu's Homepage
 
----
-
 &nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">About</a> &nbsp; &nbsp; &nbsp; Publication &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
 
 ---
@@ -18,6 +16,10 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ### Publication
 #### Conference
+>>
+>Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping.
+>Huan Fu, Mingming Gong
+>[arxiv](https://arxiv.org/abs/1809.05852)
 
 
 
