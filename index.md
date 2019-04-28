@@ -1,6 +1,6 @@
 ## Welcome to Huan Fu's Homepage
 
-<img align="left" width="100" height="100" src="https://github.com/hufu6371/huanfu/blob/master/photo/huanfu_photo.JPG">
+<img align="left" width="100" height="100" src="photo/huanfu_photo.JPG">
 
 This is the code you need to align images to the right:
 
