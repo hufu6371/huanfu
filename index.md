@@ -1,9 +1,11 @@
 ## Welcome to Huan Fu's Homepage
 
+### Huan Fu (付欢)
 <img align="left" width="200" height="250" src="photo/huanfu_photo.JPG">
 
-### Huan Fu (付欢)
-Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in 04/2019. Thanks to the continuous guidance, support and encoragement of my supervisor Prof. Dacheng Tao, and co-supervisors Dr. Chaohui Wang and Dr. Mingming Gong. Piror to that, I got my bachlar degeree from University of Science and Technology of China (USTC) in 07/2014.
+Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in 04/2019. Thanks to the continuous guidance, support and encoragement of my supervisor Prof. Dacheng Tao, and co-supervisors Dr. Chaohui Wang and Dr. Mingming Gong. Piror to that, I got my bachlar degree from University of Science and Technology of China (USTC) in 07/2014.
+
+
 
 ---
 
