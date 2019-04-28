@@ -1,4 +1,4 @@
-## Welcome to Huan Fu's Homepage
+### Welcome to Huan Fu's Homepage
 
 <img align="left" width="200" height="255" src="photo/huanfu_photo.JPG" style="padding-right: 20px">
 
