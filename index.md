@@ -1,7 +1,7 @@
 ## Welcome to Huan Fu's Homepage
 
 ### Huan Fu (付欢)
-<img align="left" width="150" height="200" src="photo/huanfu_photo.JPG" style="padding-left: 10px">
+<img align="left" width="150" height="200" src="photo/huanfu_photo.JPG" style="padding-right: 10px">
 
 **Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
 
