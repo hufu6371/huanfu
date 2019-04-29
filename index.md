@@ -70,7 +70,8 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 #### Education
 <tt style="color:grey; font-size: 90%;">March 2017 - April 2019 (Ph.D.)</tt> <br/>
 <tt style="color:black; font-size: 90%;">**UBTECH Sydney AI Centre, School of Computer Science, FEIT, University of Sydney (USYD), Australia**</tt> <br/>
-<tt style="color:black; font-size: 90%;">Supervisor: Prof. Dacheng Tao &nbsp; &nbsp; Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong</tt> <br/>
+<tt style="color:black; font-size: 90%;">Supervisor: Prof. Dacheng</tt> <br/> 
+<tt style="color:black; font-size: 90%;">Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong</tt> <br/>
 
 ##
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
