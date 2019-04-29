@@ -54,7 +54,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ><tt style="color:grey; font-size: 100%;">Facial Expression Recognition using Deep Boltzmann Machine from Thermal Infrared Images</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Affective Computing and Intelligent Interaction (**ACII**), 2013</tt> <br/>
-><tt style="color:black; font-size: 90%;">Shan He, Shangfei Wang, Wuwei Lan, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Qiang Ji</tt> <br/>
+><tt style="color:black; font-size: 90%;">Shan He, Shangfei Wang, Wuwei Lan, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Qiang Ji</tt> <br/>
 >\[[paper](https://ieeexplore.ieee.org/document/6681437)\]<br/>
 
 #### Preprints
@@ -65,6 +65,9 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 ><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech report, 2018</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
+
+### Education & Experience
+#### Education
 
 ##
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
