@@ -16,18 +16,18 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ### Publication
 #### Conference
-><tt style="color:grey; font-size: 100%;"> Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping </tt> <br/>
-><tt style="color:black; font-size: 90%;"> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**) </tt> <br/>
+><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 80%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
 >\[[paper](https://arxiv.org/abs/1809.05852)\] \[code\] (coming soon) <br/>
 
-><tt style="color:grey; font-size: 100%;"> Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation </tt> <br/>
-><tt style="color:black; font-size: 90%;"> IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019</tt> <br/>
+><tt style="color:grey; font-size: 100%;">Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Shanshan Zhao, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, and Dacheng Tao</tt> <br/>
 >\[[paper](https://arxiv.org/abs/1904.01870)\] \[[code](https://github.com/sshan-zhao/GASDA)\] <br/>
 
-><tt style="color:grey; font-size: 100%;"> Multi-scale Masked 3-D U-Net for Brain Tumor Segmentation </tt> <br/>
-><tt style="color:black; font-size: 90%;"> International Conference on Medical Image Computing and Computer Assisted Intervention, Brainlesion Workshop (**BrainLes@MICCAI**), 2018</tt> <br/>
+><tt style="color:grey; font-size: 100%;">Multi-scale Masked 3-D U-Net for Brain Tumor Segmentation</tt> <br/>
+><tt style="color:black; font-size: 90%;">International Conference on Medical Image Computing and Computer Assisted Intervention, Brainlesion Workshop (**BrainLes@MICCAI**), 2018</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Yanwu Xu, Mingming Gong, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, Kun Zhang, and Kayhan Batmanghelich</tt> <br/>
 >\[[paper](https://arxiv.org/abs/1904.01870)\] \[[code](https://github.com/sshan-zhao/GASDA)\] <br/>
 
