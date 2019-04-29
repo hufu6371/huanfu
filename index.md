@@ -38,7 +38,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 >\[[paper](https://arxiv.org/abs/1806.02446)\] \[[code](https://github.com/hufu6371/DORN)\] \[[talk](https://www.youtube.com/watch?v=EbMGyJdw2R4)\] \[[KITTI leaderboard](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)\]<br/>
 
 ><tt style="color:grey; font-size: 100%;">MoE-SPNet: A Mixture-of-Experts Scene Parsing Network</tt> <br/>
-><tt style="color:black; font-size: 90%;">Pattern Recognition, 2018</tt> <br/>
+><tt style="color:black; font-size: 90%;">Pattern Recognition (**PR**), 2018</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
 >\[[paper](https://arxiv.org/abs/1806.07049)\]<br/>
 
