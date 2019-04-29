@@ -88,5 +88,5 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 <tt style="color:black; font-size: 100%;">**Microsoft Asia-Pacific R&D Group (ARD), China**</tt> <br/>
 
 <a name="award"></a>
-<tt style="color:DeepPink; font-size: 150%;">Award</tt> <br/>
+<tt style="color:MediumAquamarine; font-size: 140%;">Award</tt> <br/>
 <tt style="color:grey; font-size: 100%;">The 1st Prize in Single Image Depth Estimation, Robust Vision Chanllenge 2018</tt> <br/>
