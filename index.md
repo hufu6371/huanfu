@@ -68,22 +68,22 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ### Education & Experience
 #### Education
 <tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D. Candidate)</tt> <br/>
-<tt style="color:black; font-size: 100%;">**UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering and Information Technologies (FEIT), University of Sydney (USYD), Australia**</tt> <br/>
+<tt style="color:black; font-size: 100%;">UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering and Information Technologies (FEIT), University of Sydney (USYD), Australia</tt> <br/>
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> Prof. Dacheng Tao<br/> 
 <tt style="color:teal; font-size: 100%;">**Co-supervisor:**</tt> A/Prof. Chaohui Wang and A/Prof. Mingming Gong<br/>
 
 <tt style="color:grey; font-size: 100%;">September 2014 - March 2017 (Ph.D. Student)</tt> <br/>
-<tt style="color:black; font-size: 100%;">**Faculty of Engineering and Information Technologies (FEIT), University of Technology Sydney (UTS), Australia**</tt> <br/>
+<tt style="color:black; font-size: 100%;">Faculty of Engineering and Information Technologies (FEIT), University of Technology Sydney (UTS), Australia</tt> <br/>
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> Prof. Dacheng Tao <br/> 
 <tt style="color:teal; font-size: 100%;">**Co-supervisor:**</tt> A/Prof. Chaohui Wang and A/Prof. Mingming Gong<br/>
 
 <tt style="color:grey; font-size: 100%;">July 2014 - August 2010 (B.S.) </tt> <br/>
-<tt style="color:black; font-size: 100%;">**School of Information Science and Technology, University of Science and Technology of China (USTC), China**</tt> <br/>
+<tt style="color:black; font-size: 100%;">School of Information Science and Technology, University of Science and Technology of China (USTC), China</tt> <br/>
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> A/Prof. Xinmei Tian and A/Prof. Shangfei Wang <br/>
 
 #### Experience
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
-<tt style="color:black; font-size: 100%;">**Microsoft Asia-Pacific R&D Group (ARD), China**</tt> <br/>
+<tt style="color:black; font-size: 100%;">Microsoft Asia-Pacific R&D Group (ARD), China</tt> <br/>
 
 <a name="award"></a>
 #### Award
