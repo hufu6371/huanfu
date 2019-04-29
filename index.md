@@ -1,6 +1,6 @@
 ## Welcome to Huan Fu's Homepage
 
-&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">**Publications**</a> &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
+&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 120%;">**Experience**</a> &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
 
 ---
 <a name="aboutme"></a>
@@ -66,6 +66,7 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 ><tt style="color:black; font-size: 90%;">Tech report, 2018</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
 
+<a name="experience"></a>
 ### Education & Experience
 #### Education
 <tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D. Candidate)</tt> <br/>
