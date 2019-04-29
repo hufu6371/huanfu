@@ -6,7 +6,7 @@
 <a name="aboutme"></a>
 <img align="left" width="200" height="255" src="photo/huanfu_photo.JPG" style="padding-right: 20px">
 
-Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor [Prof. Dacheng Tao](https://sydney.edu.au/engineering/people/dacheng.tao.php), and co-supervisors [A/Prof. Chaohui Wang](http://igm.univ-mlv.fr/~cwang/index.php) and [A/Prof. Mingming Gong](https://mgong2.github.io/). Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
+Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor [Prof. Dacheng Tao](https://sydney.edu.au/engineering/people/dacheng.tao.php), and co-supervisors [A/Prof. Chaohui Wang](http://igm.univ-mlv.fr/~cwang/index.php) and [A/Prof. Mingming Gong](https://mgong2.github.io/). Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
 
 **Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
 
@@ -68,10 +68,15 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ### Education & Experience
 #### Education
-<tt style="color:grey; font-size: 90%;">March 2017 - April 2019 (Ph.D.)</tt> <br/>
-<tt style="color:black; font-size: 90%;">**UBTECH Sydney AI Centre, School of Computer Science, FEIT, University of Sydney (USYD), Australia**</tt> <br/>
-<tt style="color:black; font-size: 90%;">Supervisor: Prof. Dacheng</tt> <br/> 
-<tt style="color:black; font-size: 90%;">Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong</tt> <br/>
+<tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D.)</tt> <br/>
+<tt style="color:black; font-size: 100%;">**UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering and Information Technologies (FEIT), University of Sydney (USYD), Australia**</tt> <br/>
+<tt style="color:black; font-size: 100%;">Supervisor: Prof. Dacheng</tt> <br/> 
+<tt style="color:black; font-size: 100%;">Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong</tt> <br/>
+
+<tt style="color:grey; font-size: 100%;">September 2014 - March 2017 (Ph.D. student)</tt> <br/>
+<tt style="color:black; font-size: 100%;">**Faculty of Engineering and Information Technologies (FEIT), University of Technology Sydney (UTS), Australia**</tt> <br/>
+<tt style="color:black; font-size: 100%;">Supervisor: Prof. Dacheng</tt> <br/> 
+<tt style="color:black; font-size: 100%;">Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong</tt> <br/>
 
 ##
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
