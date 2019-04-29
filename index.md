@@ -15,7 +15,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 ---
 
 ### Publication
-#### Conference & Journel
+#### Conference & Journal
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
@@ -37,10 +37,25 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 <tt style="color:orange; font-size: 80%;">The 1st Prize in Single Image Depth Estimation in Robust Vision Challenge 2018</tt><br/>
 >\[[paper](https://arxiv.org/abs/1806.02446)\] \[[code](https://github.com/hufu6371/DORN)\] \[[talk](https://www.youtube.com/watch?v=EbMGyJdw2R4)\] \[[KITTI leaderboard](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)\]<br/>
 
+><tt style="color:grey; font-size: 100%;">MoE-SPNet: A Mixture-of-Experts Scene Parsing Network</tt> <br/>
+><tt style="color:black; font-size: 90%;">Pattern Recognition, 2018</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
+>\[[paper](https://arxiv.org/abs/1806.07049)\]<br/>
+
+><tt style="color:grey; font-size: 100%;">Local Blur Mapping: Exploiting High-Level Semantics by Deep Neural Networks</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Transaction on Image Processing (**T-IP**), 2018</tt> <br/>
+><tt style="color:black; font-size: 90%;">Kede Ma, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Tongliang Liu, Zhou Wang, and Dacheng Tao</tt> <br/>
+>\[[paper](https://arxiv.org/abs/1612.01227)\] \[[code](https://ece.uwaterloo.ca/~k29ma/)\]<br/>
+
 ><tt style="color:grey; font-size: 100%;">Occlusion Boundary Detection via Deep Exploration of Context</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Chaohui Wang, Dacheng Tao, and Michael J. Black</tt> <br/>
->\[[paper](http://files.is.tue.mpg.de/black/papers/FuCVPR2016.pdf)\] <br/>
+>\[[paper](http://files.is.tue.mpg.de/black/papers/FuCVPR2016.pdf)\]<br/>
+
+><tt style="color:grey; font-size: 100%;">Facial Expression Recognition using Deep Boltzmann Machine from Thermal Infrared Images</tt> <br/>
+><tt style="color:black; font-size: 90%;">Affective Computing and Intelligent Interaction (**ACII**), 2013</tt> <br/>
+><tt style="color:black; font-size: 90%;">Shan He, Shangfei Wang, Wuwei Lan, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Qiang Ji</tt> <br/>
+>\[[paper](https://ieeexplore.ieee.org/document/6681437)\]<br/>
 
 
 
