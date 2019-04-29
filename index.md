@@ -71,7 +71,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 >03/2017 --- 04/2019 (Ph.D.) <br\>
 >UBTECH Sydney AI Centre, School of Computer Science, FEIT, University of Sydney (USYD), Australia <br\>
->Supervisor: Prof. Dacheng Tao  Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong
+>Supervisor: Prof. Dacheng Tao  Co-supervisor: A/Prof. Chaohui Wang and A/Prof. Mingming Gong <br\>
 
 ##
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
