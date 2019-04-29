@@ -60,7 +60,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 #### Preprints
 ><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech report, 2019</tt> <br/>
-><tt style="color:red; font-size: 90%;">Chaohui Wang<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Huan Fu<sup>*</sup>, Dacheng Tao, and Michael J. Black</tt> <br/>
+><tt style="color:black; font-size: 90%;">Chaohui Wang<sup>*</sup>, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, and Michael J. Black</tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech report, 2018</tt> <br/>
