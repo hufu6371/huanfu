@@ -83,10 +83,8 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> A/Prof. Xinmei Tian and A/Prof. Shangfei Wang <br/>
 
 #### Experience
-<tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D. Candidate)</tt> <br/>
-<tt style="color:black; font-size: 100%;">**UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering and Information Technologies (FEIT), University of Sydney (USYD), Australia**</tt> <br/>
-<tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> Prof. Dacheng Tao<br/> 
-<tt style="color:teal; font-size: 100%;">**Co-supervisor:**</tt> A/Prof. Chaohui Wang and A/Prof. Mingming Gong<br/>
+<tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
+<tt style="color:black; font-size: 100%;">** Microsoft Asia-Pacific R&D Group (ARD), China**</tt> <br/>
 
 
 ##
