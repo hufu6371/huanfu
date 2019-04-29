@@ -18,7 +18,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 #### Conference
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
-><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 80%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
 >\[[paper](https://arxiv.org/abs/1809.05852)\] \[code\] (coming soon) <br/>
 
 ><tt style="color:grey; font-size: 100%;">Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation</tt> <br/>
@@ -30,6 +30,11 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 ><tt style="color:black; font-size: 90%;">International Conference on Medical Image Computing and Computer Assisted Intervention Brainlesion Workshop (**BrainLes@MICCAI**), 2018</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Yanwu Xu, Mingming Gong, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, Kun Zhang, and Kayhan Batmanghelich</tt> <br/>
 >\[[paper](https://link.springer.com/chapter/10.1007/978-3-030-11726-9_20)\] \[[book](https://www.springer.com/gp/book/9783030117221)\]<br/>
+
+><tt style="color:grey; font-size: 100%;">Deep Ordinal Regression Network for Monocular Depth Estimation</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, Kayhan Batmanghelich, and Dacheng Tao</tt> <br/>
+>\[[paper](https://arxiv.org/abs/1806.02446)\] \[[code](https://github.com/hufu6371/DORN)\] \[[talk](https://www.youtube.com/watch?v=EbMGyJdw2R4)\] \[[KITTI Leaderboard](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)\]<br/>
 
 
 
