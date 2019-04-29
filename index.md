@@ -1,6 +1,6 @@
 ## Welcome to Huan Fu's Homepage
 
-&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">About</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">Publications</a> &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
+&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">**Publications**</a> &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
 
 ---
 <a name="aboutme"></a>
