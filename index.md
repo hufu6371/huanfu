@@ -64,7 +64,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech report, 2018</tt> <br/>
-><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
 
 ##
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
