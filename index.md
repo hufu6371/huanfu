@@ -78,7 +78,7 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> Prof. Dacheng Tao <br/> 
 <tt style="color:teal; font-size: 100%;">**Co-supervisor:**</tt> A/Prof. Chaohui Wang and A/Prof. Mingming Gong<br/>
 
-<tt style="color:grey; font-size: 100%;">July 2014 - August 2010 </tt> <br/>
+<tt style="color:grey; font-size: 100%;">July 2014 - August 2010 (B.S.) </tt> <br/>
 <tt style="color:black; font-size: 100%;">**School of Information Science and Technology, University of Science and Technology of China (USTC), China**</tt> <br/>
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> A/Prof. Xinmei Tian and A/Prof. Shangfei Wang <br/> 
 
