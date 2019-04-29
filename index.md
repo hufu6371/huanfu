@@ -8,7 +8,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 **Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network.
 
-**Email:** hufu6371@uni.sydney.edu.au &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Github:** <https://github.com/hufu6371>
+**Email:** hufu6371@uni.sydney.edu.au &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Github:** <https://github.com/hufu6371>
 
 ---
 <a name="publication"></a>
