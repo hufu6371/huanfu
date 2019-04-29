@@ -1,6 +1,6 @@
 ## Welcome to Huan Fu's Homepage
 
-&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">About</a> &nbsp; &nbsp; &nbsp; Publication &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
+&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">About</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">Publications</a> &nbsp; &nbsp; &nbsp; Experience &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
 
 ---
 <a name="aboutme"></a>
@@ -13,7 +13,7 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 **Email:** hufu6371@uni.sydney.edu.au &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Github:** <https://github.com/hufu6371>
 
 ---
-
+<a name="publication"></a>
 ### Publications
 #### Conferences & Journals
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
