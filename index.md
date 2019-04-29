@@ -34,8 +34,13 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 ><tt style="color:grey; font-size: 100%;">Deep Ordinal Regression Network for Monocular Depth Estimation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2018</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, Kayhan Batmanghelich, and Dacheng Tao</tt> <br/>
-<tt style="color:orange; font-size: 90%;">The 1st Prize in Single Image Depth Estimation in Robust Vision Challenge 2018</tt><br/>
+<tt style="color:orange; font-size: 80%;">The 1st Prize in Single Image Depth Estimation in Robust Vision Challenge 2018</tt><br/>
 >\[[paper](https://arxiv.org/abs/1806.02446)\] \[[code](https://github.com/hufu6371/DORN)\] \[[talk](https://www.youtube.com/watch?v=EbMGyJdw2R4)\] \[[KITTI leaderboard](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)\]<br/>
+
+><tt style="color:grey; font-size: 100%;">Occlusion Boundary Detection via Deep Exploration of Context</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Chaohui Wang, Dacheng Tao, and Michael J. Black</tt> <br/>
+>\[[paper](http://files.is.tue.mpg.de/black/papers/FuCVPR2016.pdf)\] <br/>
 
 
 
