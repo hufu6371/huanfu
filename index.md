@@ -70,8 +70,8 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 #### Education
 <tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D.)</tt> <br/>
 <tt style="color:black; font-size: 100%;">**UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering and Information Technologies (FEIT), University of Sydney (USYD), Australia**</tt> <br/>
-<tt style="color:teal; font-size: 100%;">**Supervisor:** Prof. Dacheng</tt> <br/> 
-<tt style="color:teal; font-size: 100%;">**Co-supervisor:** A/Prof. Chaohui Wang and A/Prof. Mingming Gong</tt> <br/>
+<tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> Prof. Dacheng <br/> 
+<tt style="color:teal; font-size: 100%;">**Co-supervisor:**</tt> A/Prof. Chaohui Wang and A/Prof. Mingming Gong<br/>
 
 <tt style="color:grey; font-size: 100%;">September 2014 - March 2017 (Ph.D. student)</tt> <br/>
 <tt style="color:black; font-size: 100%;">**Faculty of Engineering and Information Technologies (FEIT), University of Technology Sydney (UTS), Australia**</tt> <br/>
