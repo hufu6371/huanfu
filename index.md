@@ -84,7 +84,7 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 
 #### Experience
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
-<tt style="color:black; font-size: 100%;">** Microsoft Asia-Pacific R&D Group (ARD), China**</tt> <br/>
+<tt style="color:black; font-size: 100%;">**Microsoft Asia-Pacific R&D Group (ARD), China**</tt> <br/>
 
 
 ##
