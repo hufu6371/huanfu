@@ -14,8 +14,8 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 
 ---
 
-### Publication
-#### Conference & Journal
+### Publications
+#### Conferences & Journals
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
@@ -57,7 +57,14 @@ Greetings! I obtained my Ph.D. degree from The University of Sydney (USYD) in Ap
 ><tt style="color:black; font-size: 90%;">Shan He, Shangfei Wang, Wuwei Lan, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Qiang Ji</tt> <br/>
 >\[[paper](https://ieeexplore.ieee.org/document/6681437)\]<br/>
 
+#### Preprints
+><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
+><tt style="color:black; font-size: 90%;">Tech report, 2019</tt> <br/>
+><tt style="color:red; font-size: 90%;">Chaohui Wang<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Huan Fu<sup>*</sup>, Dacheng Tao, and Michael J. Black</tt> <br/>
 
+><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
+><tt style="color:black; font-size: 90%;">Tech report, 2018</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
 
 ##
 You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
