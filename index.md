@@ -1,6 +1,6 @@
 ## Welcome to Huan Fu's Homepage
 
-&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 120%;">**Experience**</a> &nbsp; &nbsp; &nbsp; Award &nbsp; &nbsp; &nbsp; CV       
+&nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 120%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 120%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 120%;">**Experience**</a> &nbsp; &nbsp; &nbsp; Award <a href="#award" style="color:coral; font-family:fantasy; font-size: 120%;">**Award**</a> &nbsp; &nbsp; &nbsp; CV       
 
 ---
 <a name="aboutme"></a>
@@ -87,40 +87,6 @@ Greetings! I obtained my Ph.D. degree from University of Sydney (USYD) in April 
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
 <tt style="color:black; font-size: 100%;">**Microsoft Asia-Pacific R&D Group (ARD), China**</tt> <br/>
 
-
-##
-You can use the [editor on GitHub](https://github.com/hufu6371/huanfu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hufu6371/huanfu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a name="award"></a>
+### Award
+<tt style="color:grey; font-size: 100%;">The 1st Prize in Single Image Depth Estimation, Robust Vision Chanllenge 2018</tt> <br/>
