@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="#activates" style="color:coral; font-family:fantasy; font-size: 50%;">**Activates**</a> &nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#award" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#news" style="color:coral; font-family:fantasy; font-size: 50%;">**News**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#award" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
 ---
 <a name="aboutme"></a>
 <img align="left" width="200" height="255" src="photo/huanfu_photo.JPG" style="padding-right: 20px">
@@ -10,6 +10,12 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 **Email:** hufu6371 At uni.sydney.edu.au &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **[Google Scholar](https://scholar.google.com/citations?hl=en&user=EYTzVMwAAAAJ)**
 
 ---
+
+<a name="news"></a>
+### Recent Updates
+
+
+
 <a name="publication"></a>
 ### Publications
 #### Conferences & Journals
