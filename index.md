@@ -20,8 +20,8 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ). [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) is a new large-scale 3D model dataset containing 9,992 high-quality 3D shapes with infomative textures. Thanks for the great suupport by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 - 03/2020, I am a co-organizer of the IJCAI 2020 workshop: [3D Artificial Intelligence Challenge through 3D-FUTURE Benchmark](https://tianchi.aliyun.com/specials/promotion/ijcai-alibaba-3d-future-workshop). Welcome to join us.
 - 02/2019, two papers (1 best paper finalist) have been accepted to [CVPR 2019](https://cvpr2019.thecvf.com/). 
-- 06/2018, Our method [DORN-CVPR2018](https://arxiv.org/abs/1806.02446) won the 1st prize in single image depth prediction competition in Robust Vision Challenge 2018.
-- 02/2018, one paper has been accepted to [CVPR 2018](https://cvpr2018.thecvf.com/)
+- 06/2018, Our method [DORN](https://arxiv.org/abs/1806.02446) won the 1st prize in single image depth prediction competition in Robust Vision Challenge 2018.
+- 02/2018, one paper has been accepted to [CVPR 2018](https://cvpr2018.thecvf.com/).
 ---
 
 <a name="publication"></a>
