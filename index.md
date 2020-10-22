@@ -28,12 +28,14 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ### Publications
 #### Conferences & Journals
 ><tt style="color:grey; font-size: 100%;">Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning</tt> <br/>
-><tt style="color:black; font-size: 90%;">In (**NeurlPS**), 2020 </tt> <br/>
+><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Shunming Li<sup>*</sup>, Rongfei Jia, Mingming Gong, Binqiang Zhao, and Dacheng Tao</tt> <br/>
+>\[[code](https://github.com/3D-FRONT-FUTURE/IBSR-texture)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Domain Generalization via Entropy Regularization</tt> <br/>
-><tt style="color:black; font-size: 90%;">In (**NeurlPS**), 2020 </tt> <br/>
+><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Shanshan Zhao, Mingming Gong, Tongliang Liu, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Dacheng Tao</tt> <br/>
+>\[[code](https://github.com/sshan-zhao/DG_via_ER)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
