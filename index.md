@@ -1,4 +1,4 @@
-<a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 50%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#award" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
+<a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 50%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#service" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
 
 ---
 <a name="aboutme"></a>
@@ -22,6 +22,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 - 02/2019, two papers (1 best paper finalist) have been accepted to [CVPR 2019](https://cvpr2019.thecvf.com/). 
 - 06/2018, our method [DORN](https://arxiv.org/abs/1806.02446) won the 1st prize in single image depth prediction competition in Robust Vision Challenge 2018.
 - 02/2018, one paper has been accepted to [CVPR 2018](https://cvpr2018.thecvf.com/).
+
 ---
 
 <a name="publication"></a>
@@ -118,6 +119,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
 <tt style="color:black; font-size: 100%;">Microsoft Asia-Pacific R&D Group (ARD), China</tt> <br/>
 
-<a name="award"></a>
-#### Award
-<tt style="color:grey; font-size: 100%;">The 1st Prize in Single Image Depth Estimation, Robust Vision Chanllenge 2018</tt> <br/>
+<a name="service"></a>
+#### Services
+#### Conference PC member
+
