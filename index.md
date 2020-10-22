@@ -1,6 +1,7 @@
 <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 50%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#service" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
 
 ---
+
 <a name="aboutme"></a>
 <img align="left" width="200" height="255" src="photo/huanfu_photo.JPG" style="padding-right: 20px">
 
@@ -95,6 +96,8 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ><tt style="color:black; font-size: 90%;">Tech. report, 2018</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
 
+---
+
 <a name="experience"></a>
 ### Education & Experience
 #### Education
@@ -119,7 +122,21 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
 <tt style="color:black; font-size: 100%;">Microsoft Asia-Pacific R&D Group (ARD), China</tt> <br/>
 
+---
+
 <a name="service"></a>
 #### Services
 #### Conference PC member
+- Neural Information Processing Systems (NeurIPS)
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- AAAI Conference on Artificial Intelligence (AAAI)
+- International Joint Conferences on Artificial Intelligence (IJCAI)
+
+#### Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
+- IEEE Transactions on Image Processing (T-IP)
+- IEEE Transactions on Cybernetics (T-CYB)
+- ACM Transactions on Knowledge Discovery from Data (T-KDD)
+- Pattern Recognition (PR)
 
