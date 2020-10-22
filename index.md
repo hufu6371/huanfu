@@ -80,12 +80,18 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 >\[[paper](https://ieeexplore.ieee.org/document/6681437)\]<br/>
 
 #### Preprints
+><tt style="color:grey; font-size: 100%;">3D-FUTURE: 3D Furniture shape with TextURE
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Tech. report, 2020</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Lin Gao, Mingming Gong, Binqiang Zhao, Steve Maybank, and Dacheng Tao</tt> <br/>
+>\[[paper](https://arxiv.org/abs/2009.09633)\]<br/>
+
 ><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
-><tt style="color:black; font-size: 90%;">Tech report, 2019</tt> <br/>
+><tt style="color:black; font-size: 90%;">Tech. report, 2019</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Chaohui Wang<sup>*</sup>, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, and Michael J. Black</tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
-><tt style="color:black; font-size: 90%;">Tech report, 2018</tt> <br/>
+><tt style="color:black; font-size: 90%;">Tech. report, 2018</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Chaohui Wang, and Dacheng Tao</tt> <br/>
 
 <a name="experience"></a>
