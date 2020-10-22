@@ -14,8 +14,11 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Recent Updates
-- 09/2020, two papers has been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/)
-- Second item
+- 09/2020, two papers has been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/).
+- 06/2020, Very happy to announce the release of 3D-FRONT (3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics). 3D-FUTURE is a new large-scale 3D scene dataset containing 6,813 distinct houses and 19,775 diversely furnished rooms. Thanks for the great suupport by [Prof. Hao (Richard) Zhang](https://www2.cs.sfu.ca/~haoz/).
+- 04/2020, Very happy to announce the release of 3D-FUTURE (3D-FUTURE: 3D FUrniture shape with TextURE
+). 3D-FUTURE is a new large-scale 3D model dataset containing 9,992 high-quality 3D shapes with infomative textures. Thanks for the great suupport by Prof. Dacheng Tao.
+- 03/2020, I am a co-organizer of the IJCAI 2020 workshop: [3D Artificial Intelligence Challenge through 3D-FUTURE Benchmark](https://tianchi.aliyun.com/specials/promotion/ijcai-alibaba-3d-future-workshop). Welcome to join us.
 - Third item
 - Fourth item
 
