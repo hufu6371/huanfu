@@ -1,4 +1,4 @@
-<a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 50%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#service" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
+<a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 100%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 100%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 100%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 100%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#service" style="color:coral; font-family:fantasy; font-size: 100%;">**Services**</a>
 
 ---
 
