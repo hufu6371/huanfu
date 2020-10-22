@@ -1,4 +1,5 @@
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 50%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#award" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
+<a href="#aboutme" style="color:coral; font-family:fantasy; font-size: 50%;">**About**</a> &nbsp; &nbsp; &nbsp; <a href="#updates" style="color:coral; font-family:fantasy; font-size: 50%;">**Updates**</a> &nbsp; &nbsp; &nbsp; <a href="#publication" style="color:coral; font-family:fantasy; font-size: 50%;">**Publications**</a> &nbsp; &nbsp; &nbsp; <a href="#experience" style="color:coral; font-family:fantasy; font-size: 50%;">**Experience**</a> &nbsp; &nbsp; &nbsp; <a href="#award" style="color:coral; font-family:fantasy; font-size: 50%;">**Services**</a>
+
 ---
 <a name="aboutme"></a>
 <img align="left" width="200" height="255" src="photo/huanfu_photo.JPG" style="padding-right: 20px">
@@ -13,11 +14,12 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Recent Updates
-- First item
+- 09/2020, two papers has been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/)
 - Second item
 - Third item
 - Fourth item
 
+---
 
 <a name="publication"></a>
 ### Publications
