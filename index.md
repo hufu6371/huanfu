@@ -33,7 +33,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 ><tt style="color:grey; font-size: 100%;">Domain Generalization via Entropy Regularization</tt> <br/>
 ><tt style="color:black; font-size: 90%;">In (**NeurlPS**), 2020 </tt> <br/>
-><tt style="color:red; font-size: 90%;">Shanshan Zhao, Mingming Gong, Tongliang Liu, Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Dacheng Tao</tt> <br/>
+><tt style="color:black; font-size: 90%;">Shanshan Zhao, Mingming Gong, Tongliang Liu, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Dacheng Tao</tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
