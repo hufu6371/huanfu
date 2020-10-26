@@ -32,7 +32,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ><tt style="color:grey; font-size: 100%;">Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning</tt> <br/>
 ><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Shunming Li<sup>*</sup>, Rongfei Jia, Mingming Gong, Binqiang Zhao, and Dacheng Tao</tt> <br/>
->\[[code](https://github.com/3D-FRONT-FUTURE/IBSR-texture)\] <br/>
+>\[[paper](https://arxiv.org/abs/2010.12238)\] \[[code](https://github.com/3D-FRONT-FUTURE/IBSR-texture)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Domain Generalization via Entropy Regularization</tt> <br/>
 ><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
