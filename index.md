@@ -31,7 +31,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ### Publications
 #### Conferences & Journals
 ><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
-><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Chaohui Wang<sup>*</sup>, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, and Michael J. Black</tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning</tt> <br/>
