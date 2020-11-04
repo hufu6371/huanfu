@@ -15,6 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Recent Updates
+- 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - 09/2020, two papers have been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/).
 - 06/2020, very happy to announce the release of 3D-FRONT (3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics). [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) is a new large-scale 3D scene dataset containing 6,813 distinct houses and 19,775 diversely furnished rooms. Thanks for the great support by [Prof. Hao (Richard) Zhang](https://www2.cs.sfu.ca/~haoz/).
 - 04/2020, very happy to announce the release of 3D-FUTURE (3D-FUTURE: 3D FUrniture shape with TextURE
@@ -29,6 +30,10 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="publication"></a>
 ### Publications
 #### Conferences & Journals
+><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
+><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
+><tt style="color:black; font-size: 90%;">Chaohui Wang<sup>*</sup>, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, and Michael J. Black</tt> <br/>
+
 ><tt style="color:grey; font-size: 100%;">Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning</tt> <br/>
 ><tt style="color:black; font-size: 90%;">In **NeurlPS**, 2020 </tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Shunming Li<sup>*</sup>, Rongfei Jia, Mingming Gong, Binqiang Zhao, and Dacheng Tao</tt> <br/>
