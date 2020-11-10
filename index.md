@@ -17,9 +17,9 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ### Recent Updates
 - 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - 09/2020, two papers have been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/).
-- 06/2020, very happy to announce the release of 3D-FRONT (3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics). [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) is a new large-scale 3D scene dataset containing 6,813 distinct houses and 19,775 diversely furnished rooms. Thanks for the great support by [Prof. Hao (Richard) Zhang](https://www2.cs.sfu.ca/~haoz/).
+- 06/2020, very happy to announce the release of 3D-FRONT (3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics). [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) is a new large-scale 3D scene dataset containing 6,813 distinct houses and 19,775 diversely furnished rooms. 
 - 04/2020, very happy to announce the release of 3D-FUTURE (3D-FUTURE: 3D FUrniture shape with TextURE
-). [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) is a new large-scale 3D model dataset containing 9,992 high-quality 3D shapes with infomative textures. Thanks for the great support by [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
+). [3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-future) is a new large-scale 3D model dataset containing 9,992 high-quality 3D shapes with infomative textures.
 - 03/2020, I am a co-organizer of the IJCAI 2020 workshop: [3D Artificial Intelligence Challenge through 3D-FUTURE Benchmark](https://tianchi.aliyun.com/specials/promotion/ijcai-alibaba-3d-future-workshop). Welcome to join us.
 - 02/2019, two papers (1 best paper finalist) have been accepted to [CVPR 2019](https://cvpr2019.thecvf.com/). 
 - 06/2018, our method [DORN](https://arxiv.org/abs/1806.02446) won the 1st prize in single image depth prediction competition in Robust Vision Challenge 2018.
