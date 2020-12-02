@@ -138,11 +138,13 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="service"></a>
 ### Services
+#### Conference SPC member
+- International Joint Conferences on Artificial Intelligence (IJCAI)
+
 #### Conference PC member
 - Neural Information Processing Systems (NeurIPS)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 - AAAI Conference on Artificial Intelligence (AAAI)
-- International Joint Conferences on Artificial Intelligence (IJCAI)
 
 #### Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
