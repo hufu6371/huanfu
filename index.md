@@ -17,7 +17,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ### Recent Updates
 - 12/2020, one paper has been accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).
 - 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
-- 10/2020, our 3D-FRONT (3D Furnished Rooms with layOuts and semaNTics) dataset has received the ChinaGraph Best Dataset Award, 2020.
+- 10/2020, our 3D-FRONT (3D Furnished Rooms with layOuts and semaNTics) dataset has received the ChinaGraph Best Dataset Award.
 - 09/2020, two papers have been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/).
 - 06/2020, very happy to announce the release of 3D-FRONT (3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics). [3D-FRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) is a new large-scale 3D scene dataset containing 6,813 distinct houses and 19,775 diversely furnished rooms. 
 - 04/2020, very happy to announce the release of 3D-FUTURE (3D-FUTURE: 3D FUrniture shape with TextURE
