@@ -15,6 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Recent Updates
+- 12/2020, one paper has been accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).
 - 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - 09/2020, two papers have been accepted to [NeurlPS 2020](https://neurips.cc/Conferences/2020/).
 - 06/2020, very happy to announce the release of 3D-FRONT (3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics). [3D-FRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) is a new large-scale 3D scene dataset containing 6,813 distinct houses and 19,775 diversely furnished rooms. 
@@ -30,9 +31,14 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="publication"></a>
 ### Publications
 #### Conferences & Journals
+><tt style="color:grey; font-size: 100%;">Exploiting Diverse Characteristics and Adversarial Ambivalence for Domain Adaptive Segmentation</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020 </tt> <br/>
+><tt style="color:black; font-size: 90%;">Bowen Cai, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Binqiang Zhao, Hua Li, and Yinghui Xu</tt> <br/>
+
 ><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Chaohui Wang<sup>*</sup>, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Dacheng Tao, and Michael J. Black</tt> <br/>
+>\[[paper](https://ieeexplore.ieee.org/document/9264681/)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Thirty-fourth Conference on Neural Information Processing Systems (**NeurlPS**), 2020 </tt> <br/>
@@ -42,12 +48,11 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ><tt style="color:grey; font-size: 100%;">Domain Generalization via Entropy Regularization</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Thirty-fourth Conference on Neural Information Processing Systems (**NeurlPS**), 2020 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Shanshan Zhao, Mingming Gong, Tongliang Liu, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Dacheng Tao</tt> <br/>
->\[[code](https://github.com/sshan-zhao/DG_via_ER)\] <br/>
+>\[[paper](https://papers.nips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)\] \[[code](https://github.com/sshan-zhao/DG_via_ER)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
-><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**oral**)</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Best Paper Fiinalist**)</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
-<tt style="color:orange; font-size: 80%;">Best paper finalists (CVPR 2019)</tt><br/>
 >\[[paper](https://arxiv.org/abs/1809.05852)\] \[[code](https://github.com/hufu6371/GcGAN)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation</tt> <br/>
