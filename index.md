@@ -36,6 +36,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ><tt style="color:grey; font-size: 100%;">Exploiting Diverse Characteristics and Adversarial Ambivalence for Domain Adaptive Segmentation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI**), 2021 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Bowen Cai, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Binqiang Zhao, Hua Li, and Yinghui Xu</tt> <br/>
+>\[[paper](https://arxiv.org/pdf/2012.05608.pdf)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Occlusion Boundary: A Formal Definition & Its Detection via Deep Exploration of Context</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2020 </tt> <br/>
