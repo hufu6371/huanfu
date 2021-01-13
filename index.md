@@ -146,7 +146,9 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 #### Conference PC member
 - Neural Information Processing Systems (NeurIPS)
+- International Conference on Machine Learning (ICML)
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- International Conference on Computer Vision (ICCV)
 - AAAI Conference on Artificial Intelligence (AAAI)
 
 #### Journal Reviewer
