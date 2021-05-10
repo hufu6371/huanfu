@@ -33,6 +33,11 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="publication"></a>
 ### Publications
 #### Conferences & Journals
+><tt style="color:grey; font-size: 100%;">Adaptive Context-Aware Multi-Modal Network for Depth Completions</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Transaction on Image Processing (**T-IP**), 2021</tt> <br/>
+><tt style="color:black; font-size: 90%;">Shanshan Zhao, Mingming Gong, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Dacheng Tao</tt> <br/>
+>\[[paper](https://arxiv.org/pdf/2008.10833.pdf)\] \[[code](https://github.com/sshan-zhao/ACMNet)\]<br/>
+
 ><tt style="color:grey; font-size: 100%;">Exploiting Diverse Characteristics and Adversarial Ambivalence for Domain Adaptive Segmentation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Thirty-Fifth AAAI Conference on Artificial Intelligence (**AAAI**), 2021 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Bowen Cai, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Binqiang Zhao, Hua Li, and Yinghui Xu</tt> <br/>
