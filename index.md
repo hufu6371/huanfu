@@ -15,6 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Recent Updates
+- 7/2021, our 3D-FRONT paper has been accepted to ICCV 2021. Welcome to use the dataset.
 - 12/2020, one paper has been accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).
 - 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - 10/2020, our 3D-FRONT (3D Furnished Rooms with layOuts and semaNTics) dataset has received the ChinaGraph Best Dataset Award.
@@ -33,6 +34,12 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="publication"></a>
 ### Publications
 #### Conferences & Journals
+><tt style="color:grey; font-size: 100%;">3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">International Conference on Computer Vision (**ICCV**), 2021</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Bowen Cai, Lin Gao, Lingxiao Zhang, Cao Li, Jiaming Wang, Qixun Zeng, Chengyue Sun, Rongfei Jia, Binqiang Zhao, and Hao Zhang</tt> <br/>
+>\[[Project Page](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset)\]<br/>
+
 ><tt style="color:grey; font-size: 100%;">Adaptive Context-Aware Multi-Modal Network for Depth Completions</tt> <br/>
 ><tt style="color:black; font-size: 90%;">IEEE Transaction on Image Processing (**T-IP**), 2021</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Shanshan Zhao, Mingming Gong, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, and Dacheng Tao</tt> <br/>
@@ -100,12 +107,6 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 >\[[paper](https://ieeexplore.ieee.org/document/6681437)\]<br/>
 
 #### Preprints
-><tt style="color:grey; font-size: 100%;">3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
-</tt> <br/>
-><tt style="color:black; font-size: 90%;">Tech. report, 2020</tt> <br/>
-><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Bowen Cai, Lin Gao, Lingxiao Zhang, Cao Li, Qixun Zeng, Chengyue Sun, Yiyun Fei, Yu Zheng, Ying Li, Yi Liu, Peng Liu, Lin Ma, Le Weng, Xiaohang Hu, Xin Ma, Qian Qian, Rongfei Jia, Binqiang Zhao, and Hao Zhang</tt> <br/>
->\[[paper](https://arxiv.org/abs/2009.09633)\]<br/>
-
 ><tt style="color:grey; font-size: 100%;">3D-FUTURE: 3D Furniture shape with TextURE
 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech. report, 2020</tt> <br/>
