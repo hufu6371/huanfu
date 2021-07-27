@@ -15,7 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Recent Updates
-- 07/2021, our 3D-FRONT paper has been accepted to ICCV 2021. Welcome to use the dataset.
+- 07/2021, our 3D-FRONT paper has been accepted to [ICCV 2021](http://iccv2021.thecvf.com/). Welcome to use the dataset.
 - 12/2020, one paper has been accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).
 - 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
 - 10/2020, our 3D-FRONT (3D Furnished Rooms with layOuts and semaNTics) dataset has received the ChinaGraph Best Dataset Award.
