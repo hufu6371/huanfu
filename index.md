@@ -111,7 +111,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech. report, 2020</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Lin Gao, Mingming Gong, Binqiang Zhao, Steve Maybank, and Dacheng Tao</tt> <br/>
->\[[paper](https://arxiv.org/abs/2011.09127)\]<br/>
+>\[[paper](https://arxiv.org/abs/2009.09633)\]<br/>
 
 ><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech. report, 2018</tt> <br/>
