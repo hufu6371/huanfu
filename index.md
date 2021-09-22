@@ -14,7 +14,8 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ---
 
 <a name="updates"></a>
-### Recent Updates
+### Updates
+- 09/2021, our 3D-FUTURE paper has been accepted to [IJCV](https://www.springer.com/journal/11263). 
 - 07/2021, our 3D-FRONT paper has been accepted to [ICCV 2021](http://iccv2021.thecvf.com/). 
 - 12/2020, one paper has been accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).
 - 11/2020, one paper has been accepted to [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
@@ -34,6 +35,12 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="publication"></a>
 ### Publications
 #### Conferences & Journals
+><tt style="color:grey; font-size: 100%;">3D-FUTURE: 3D Furniture shape with TextURE
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to IJCV, 2021</tt> <br/>
+><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Lin Gao, Mingming Gong, Binqiang Zhao, Steve Maybank, and Dacheng Tao</tt> <br/>
+>\[[paper](https://arxiv.org/abs/2009.09633)\]<br/>
+
 ><tt style="color:grey; font-size: 100%;">3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics
 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">International Conference on Computer Vision (**ICCV**), 2021</tt> <br/>
@@ -107,11 +114,6 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 >\[[paper](https://ieeexplore.ieee.org/document/6681437)\]<br/>
 
 #### Preprints
-><tt style="color:grey; font-size: 100%;">3D-FUTURE: 3D Furniture shape with TextURE
-</tt> <br/>
-><tt style="color:black; font-size: 90%;">Tech. report, 2020</tt> <br/>
-><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, Lin Gao, Mingming Gong, Binqiang Zhao, Steve Maybank, and Dacheng Tao</tt> <br/>
->\[[paper](https://arxiv.org/abs/2009.09633)\]<br/>
 
 ><tt style="color:grey; font-size: 100%;">A Compromise Principle in Deep Monocular Depth Estimation</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Tech. report, 2018</tt> <br/>
@@ -138,7 +140,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 #### Experience
 <tt style="color:grey; font-size: 100%;">May 2019 - Present (Algorithm Expert)</tt> <br/>
-<tt style="color:black; font-size: 100%;">TaoXi Technology Depertment, Alibaba Group, China</tt> <br/>
+<tt style="color:black; font-size: 100%;">Tao Technology Depertment, Alibaba Group, China</tt> <br/>
 
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
 <tt style="color:black; font-size: 100%;">Microsoft Asia-Pacific R&D Group (ARD), China</tt> <br/>
