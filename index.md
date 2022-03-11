@@ -15,6 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Updates
+- 03/2022, three papers have been accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - 09/2021, our 3D-FUTURE paper has been accepted to [IJCV](https://www.springer.com/journal/11263). 
 - 07/2021, our 3D-FRONT paper has been accepted to [ICCV 2021](http://iccv2021.thecvf.com/). 
 - 12/2020, one paper has been accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21call/).
@@ -33,8 +34,26 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ---
 
 <a name="publication"></a>
+<sup>#</sup>: Corresponding Author
+
 ### Publications
 #### Conferences & Journals
+
+><tt style="color:grey; font-size: 100%;">Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to CVPR, 2022</tt> <br/>
+><tt style="color:black; font-size: 90%;">Jian Zhang<sup>*</sup>, Yuanqing Zhang<sup>*</sup>, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>#</sup></tt><tt style="color:black; font-size: 90%;">, Xiaowei Zhou, Bowen Cai, Jinchi Huang, Rongfei Jia, Binqiang Zhao, and Xing Tang</tt> <br/>
+
+><tt style="color:grey; font-size: 100%;">Modeling Indirect Illumination for Inverse Rendering
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to CVPR, 2022</tt> <br/>
+><tt style="color:black; font-size: 90%;">Yuanqing Zhang, Jiaming Sun, Xingyi He, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Rongfei Jia, and Xiaowei Zhou</tt> <br/>
+
+><tt style="color:grey; font-size: 100%;">Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to CVPR, 2022</tt> <br/>
+><tt style="color:black; font-size: 90%;">Jiaxian Guo, Jiachen Li, </tt><tt style="color:red; font-size: 90%;">Huan Fu</tt><tt style="color:black; font-size: 90%;">, Mingming Gong, Kun Zhang, and Dacheng Tao</tt> <br/>
+
 ><tt style="color:grey; font-size: 100%;">3D-FUTURE: 3D Furniture shape with TextURE
 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Accepted to IJCV, 2021</tt> <br/>
