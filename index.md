@@ -34,9 +34,9 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ---
 
 <a name="publication"></a>
+### Publications
 <sup>#</sup>: Corresponding Author
 
-### Publications
 #### Conferences & Journals
 
 ><tt style="color:grey; font-size: 100%;">Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation
