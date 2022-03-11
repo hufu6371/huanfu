@@ -169,14 +169,12 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="service"></a>
 ### Services
 #### Conference SPC member
-- International Joint Conferences on Artificial Intelligence (IJCAI)
+- IJCAI21
 
 #### Conference PC member
-- Neural Information Processing Systems (NeurIPS)
-- International Conference on Machine Learning (ICML)
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-- International Conference on Computer Vision (ICCV)
-- AAAI Conference on Artificial Intelligence (AAAI)
+- ECCV22, CVPR22, ICML22, AAAI22, IJCAI22
+- NeurIPS21, ICCV21, CVPR21, ICML21, AAAI21
+- NeurIPS20, CVPR20, AAAI20, IJCAI20
 
 #### Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
