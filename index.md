@@ -5,7 +5,7 @@
 <a name="aboutme"></a>
 <img align="left" width="200" height="255" src="photo/huanfu_photo.JPG" style="padding-right: 20px">
 
-Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**</tt>. I am currently a Senior Algorithm Engineer in Tao Technology Department, Alibaba Group. I obtained my Ph.D. degree from University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor [**Prof. Dacheng Tao**](https://sydney.edu.au/engineering/people/dacheng.tao.php), and co-supervisors [**A/Prof. Chaohui Wang**](http://igm.univ-mlv.fr/~cwang/index.php) and [**A/Prof. Mingming Gong**](https://mingming-gong.github.io/). Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
+Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**</tt>. I am currently a Senior Algorithm Engineer in Tao Technology Department, Alibaba Group. I obtained my Ph.D. degree from University of Sydney (USYD) in April 2019. Thanks to the continuous guidance, support and encoragement of my supervisor [**Prof. Dacheng Tao**](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=en), and co-supervisors [**A/Prof. Chaohui Wang**](http://igm.univ-mlv.fr/~cwang/index.php) and [**A/Prof. Mingming Gong**](https://mingming-gong.github.io/). Piror to that, I got my bachelor degree from University of Science and Technology of China (USTC) in July 2014.
 
 **Research:** Computer Vision (Semantic Segmentation, Depth Estimation, and Boundary Detection *etc.*), Domain Adapation, Generative Adversarial Network, 3D Vision.
 
