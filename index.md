@@ -15,6 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Updates
+- 07/2022, our AdaSRG has been accepted to [ECCV 2022](https://eccv2022.ecva.net/).
 - 03/2022, three papers have been accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - 09/2021, our 3D-FUTURE paper has been accepted to [IJCV](https://www.springer.com/journal/11263). 
 - 07/2021, our 3D-FRONT paper has been accepted to [ICCV 2021](http://iccv2021.thecvf.com/). 
@@ -38,6 +39,11 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <sup>#</sup>: Corresponding Author
 
 #### Conferences & Journals
+
+><tt style="color:grey; font-size: 100%;">Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to ECCV, 2022</tt> <br/>
+><tt style="color:black; font-size: 90%;">Jian Zhang<sup>*</sup>, Jinchi Huang<sup>*</sup>, Bowen Cai<sup>*</sup>, Mingming Gong, Chaohui Wang, Jiaming Wang, Hongchen Luo, Rongfei Jia, Binqiang Zhao, Xing Tang, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>#</sup></tt><tt style="color:black; font-size: 90%;"></tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation
 </tt> <br/>
@@ -143,7 +149,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <a name="experience"></a>
 ### Education & Experience
 #### Education
-<tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D. Candidate)</tt> <br/>
+<tt style="color:grey; font-size: 100%;">March 2017 - April 2019 (Ph.D.)</tt> <br/>
 <tt style="color:black; font-size: 100%;">UBTECH Sydney AI Centre, School of Computer Science, Faculty of Engineering and Information Technologies (FEIT), University of Sydney (USYD), Australia</tt> <br/>
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> Prof. Dacheng Tao<br/> 
 <tt style="color:teal; font-size: 100%;">**Co-supervisor:**</tt> A/Prof. Chaohui Wang and A/Prof. Mingming Gong<br/>
@@ -158,7 +164,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <tt style="color:teal; font-size: 100%;">**Supervisor:**</tt> A/Prof. Xinmei Tian and A/Prof. Shangfei Wang <br/>
 
 #### Experience
-<tt style="color:grey; font-size: 100%;">May 2019 - Present (Senior Algorithm Engineer)</tt> <br/>
+<tt style="color:grey; font-size: 100%;">May 2019 - Present</tt> <br/>
 <tt style="color:black; font-size: 100%;">Tao Technology Depertment, Alibaba Group, China</tt> <br/>
 
 <tt style="color:grey; font-size: 100%;">July 2013 - October 2013 (Software Engineer Intern)</tt> <br/>
@@ -172,7 +178,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 - IJCAI21
 
 #### Conference PC member
-- ECCV22, CVPR22, ICML22, AAAI22, IJCAI22
+- NeurIPS22, 3DV22, ECCV22, CVPR22, ICML22, AAAI22, IJCAI22
 - NeurIPS21, ICCV21, CVPR21, ICML21, AAAI21
 - NeurIPS20, CVPR20, AAAI20, IJCAI20
 
