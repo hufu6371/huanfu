@@ -98,7 +98,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 >\[[paper](https://papers.nips.cc/paper/2020/file/b98249b38337c5088bbc660d8f872d6a-Paper.pdf)\] \[[code](https://github.com/sshan-zhao/DG_via_ER)\] <br/>
 
 ><tt style="color:grey; font-size: 100%;">Geometry-Consistent Generative Adversarial Networks for One-sided Unsupervised Domain Mapping</tt> <br/>
-><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Best Paper Fiinalist**)</tt> <br/>
+><tt style="color:black; font-size: 90%;">IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019 (**Best Paper Finalist**)</tt> <br/>
 ><tt style="color:red; font-size: 90%;">Huan Fu<sup>*</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gong<sup>*</sup>, Kayhan Batmanghelich, Kun Zhang, and Dacheng Tao</tt> <br/>
 >\[[paper](https://arxiv.org/abs/1809.05852)\] \[[code](https://github.com/hufu6371/GcGAN)\] <br/>
 
