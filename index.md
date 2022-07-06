@@ -40,7 +40,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 #### Conferences & Journals
 
-><tt style="color:grey; font-size: 100%;">Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation
+><tt style="color:grey; font-size: 100%;">Digging into Radiance Grid for Real-Time View Synthesis with Detail Preservation
 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Accepted to ECCV, 2022</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Jian Zhang<sup>*</sup>, Jinchi Huang<sup>*</sup>, Bowen Cai<sup>*</sup>, Mingming Gong, Chaohui Wang, Jiaming Wang, Hongchen Luo, Rongfei Jia, Binqiang Zhao, Xing Tang, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>#</sup></tt><tt style="color:black; font-size: 90%;"></tt> <br/>
