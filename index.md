@@ -176,8 +176,10 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 ### Services
 #### Conference SPC member
 - IJCAI21
+- IJCAI23
 
 #### Conference PC member
+- CVPR23
 - NeurIPS22, 3DV22, ECCV22, CVPR22, ICML22, AAAI22, IJCAI22
 - NeurIPS21, ICCV21, CVPR21, ICML21, AAAI21
 - NeurIPS20, CVPR20, AAAI20, IJCAI20
