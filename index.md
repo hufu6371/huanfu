@@ -15,6 +15,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Updates
+- 03/2023, our NeuDA has been accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
 - 07/2022, our HrSRG has been accepted to [ECCV 2022](https://eccv2022.ecva.net/).
 - 03/2022, three papers have been accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - 09/2021, our 3D-FUTURE paper has been accepted to [IJCV](https://www.springer.com/journal/11263). 
@@ -39,6 +40,11 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <sup>#</sup>: Corresponding Author
 
 #### Conferences & Journals
+
+><tt style="color:grey; font-size: 100%;">Digging into Radiance Grid for Real-Time View Synthesis with Detail Preservation
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to CVPR, 2023</tt> <br/>
+><tt style="color:black; font-size: 90%;">Bowen Cai, Jinchi Huang, Rongfei Jia, Chengfei Lv, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>#</sup></tt><tt style="color:black; font-size: 90%;"></tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">Digging into Radiance Grid for Real-Time View Synthesis with Detail Preservation
 </tt> <br/>
