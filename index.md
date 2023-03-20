@@ -41,7 +41,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 #### Conferences & Journals
 
-><tt style="color:grey; font-size: 100%;">Digging into Radiance Grid for Real-Time View Synthesis with Detail Preservation
+><tt style="color:grey; font-size: 100%;">NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction
 </tt> <br/>
 ><tt style="color:black; font-size: 90%;">Accepted to CVPR, 2023</tt> <br/>
 ><tt style="color:black; font-size: 90%;">Bowen Cai, Jinchi Huang, Rongfei Jia, Chengfei Lv, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>#</sup></tt><tt style="color:black; font-size: 90%;"></tt> <br/>
@@ -185,7 +185,7 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 - IJCAI23
 
 #### Conference PC member
-- CVPR23, ICML23
+- CVPR23, ICML23, ICCV23
 - NeurIPS22, 3DV22, ECCV22, CVPR22, ICML22, AAAI22, IJCAI22
 - NeurIPS21, ICCV21, CVPR21, ICML21, AAAI21
 - NeurIPS20, CVPR20, AAAI20, IJCAI20
