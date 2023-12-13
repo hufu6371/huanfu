@@ -15,6 +15,9 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 
 <a name="updates"></a>
 ### Updates
+- 10/2023, Welcome to join our [3D Vision and Modeling Challenges in eCommerce
+ICCV 2023 Workshop](https://3dv-in-ecommerce.github.io/).
+- 06/2023, One paper has been accepted to ICCV23.
 - 03/2023, our NeuDA has been accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
 - 07/2022, our HrSRG has been accepted to [ECCV 2022](https://eccv2022.ecva.net/).
 - 03/2022, three papers have been accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
@@ -40,6 +43,11 @@ Greetings! I am <tt style="color:Tomato; font-size: 100%;">**Fu, Huan (付欢)**
 <sup>#</sup>: Corresponding Author
 
 #### Conferences & Journals
+
+><tt style="color:grey; font-size: 100%;">Multiscale Representation for Real-Time Anti-Aliasing Neural Rendering
+</tt> <br/>
+><tt style="color:black; font-size: 90%;">Accepted to ICCV, 2023</tt> <br/>
+><tt style="color:black; font-size: 90%;">Dongting Hu, Zhenkai Zhang, Tingbo Hou, Tongliang Liu, </tt><tt style="color:red; font-size: 90%;">Huan Fu<sup>#</sup></tt><tt style="color:black; font-size: 90%;">, Mingming Gongg<sup>#</sup></tt> <br/>
 
 ><tt style="color:grey; font-size: 100%;">NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction
 </tt> <br/>
